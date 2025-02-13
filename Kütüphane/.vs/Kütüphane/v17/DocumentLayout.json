@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\service\\kitapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\service\\kitapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\controller\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\controller\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\entity\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\entity\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\service\\interfaceler\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\service\\interfaceler\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\database\\msdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\database\\msdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\k\u00FCt\u00FCphane\\k\u00FCt\u00FCphane\\service\\interfaceler\\ikitapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A8CBDE-4B7A-4A65-A587-23DF3C44F488}|K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane.csproj|solutionrelative:k\u00FCt\u00FCphane\\service\\interfaceler\\ikitapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\AdminService.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\service\\AdminService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\AdminService.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\service\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:04:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\entity\\Kitap.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\entity\\Kitap.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\entity\\Kitap.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\entity\\Kitap.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:11:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KitapController.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\controller\\KitapController.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\controller\\KitapController.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\controller\\KitapController.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\controller\\KitapController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:11:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitapService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\KitapService.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\service\\KitapService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\KitapService.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\service\\KitapService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:10:53.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKitapService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\interfaceler\\IKitapService.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\service\\interfaceler\\IKitapService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\interfaceler\\IKitapService.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\service\\interfaceler\\IKitapService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:10:07.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\CustomerService.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\service\\CustomerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:58:28.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\controller\\CustomerController.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\controller\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\controller\\CustomerController.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\controller\\CustomerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:56:23.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\Program.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\Program.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\Program.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:54:12.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\interfaceler\\IAdminService.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\service\\interfaceler\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\service\\interfaceler\\IAdminService.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\service\\interfaceler\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:04:24.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MsDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\database\\MsDBContext.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\database\\MsDBContext.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\database\\MsDBContext.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\database\\MsDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:19:00.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\controller\\AdminController.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane\\controller\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\K\u00FCt\u00FCphane\\K\u00FCt\u00FCphane\\controller\\AdminController.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane\\controller\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:31:38.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\bin\Debug\net9.0\Kütüphane.exe
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\bin\Debug\net9.0\Kütüphane.deps.json
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\bin\Debug\net9.0\Kütüphane.runtimeconfig.json
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\bin\Debug\net9.0\Kütüphane.dll
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\bin\Debug\net9.0\Kütüphane.pdb
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\Kütüphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\Kütüphane.AssemblyInfoInputs.cache
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\Kütüphane.AssemblyInfo.cs
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\Kütüphane.dll
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\refint\Kütüphane.dll
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\Kütüphane.pdb
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\Kütüphane.genruntimeconfig.cache
+C:\Users\hayat\OneDrive\Masaüstü\Kütüphane\Kütüphane\Kütüphane\obj\Debug\net9.0\ref\Kütüphane.dll
